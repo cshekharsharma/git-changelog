@@ -1,0 +1,32 @@
+{
+  "name": "cshekharsharma/git-changelog",
+  "description": "Changelog generator from git log history",
+  "type": "library",
+  "keywords": [
+    "changelog",
+    "gittools"
+  ],
+  "version": "v1.0.0",
+  "authors": [
+    {
+      "name": "Chandra Shekhar Sharma",
+      "email": "shekharsharma705@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.5.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "GitChangeLog\\" : "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true,
+    "optimize-autoloader": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
