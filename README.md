@@ -3,9 +3,9 @@ Git Change Log
 
 A simple PHP library for generating changelog file by parsing git log history.
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/cshekharsharma/git-changelog.svg?style=flat-square)](https://packagist.org/packages/cshekharsharma/git-changelog)
-[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.5-8892BF.svg?style=flat-square)](https://php.net/)
-[![Build Status](https://img.shields.io/travis/cshekharsharma/git-changelog/master.svg?style=flat-square)](https://travis-ci.org/cshekharsharma/git-changelog)
+[![Latest Stable Version](https://img.shields.io/packagist/v/cshekharsharma/git-changelog.svg)](https://packagist.org/packages/cshekharsharma/git-changelog)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.5-8892BF.svg)](https://php.net/)
+[![Build Status](https://img.shields.io/travis/cshekharsharma/git-changelog/master.svg)](https://travis-ci.org/cshekharsharma/git-changelog)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/cshekharsharma/git-changelog)
 
 
