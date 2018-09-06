@@ -57,7 +57,7 @@ $generator->setWorkingDir('/path/to/git/repository');
 
 $generator->setOutputFormat(Constants::OUTPUT_FORMAT_MARKDOWN);
 
-$changelogs = $generator->generator();
+$changelogs = $generator->generate();
 
 ```
 
